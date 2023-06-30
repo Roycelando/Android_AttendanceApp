@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="list_name">Student List</string>
+    <string name="random_number">01</string>
+    <string name="enter_code">Enter Code :</string>
+    <string name="cosc_3p00_prof_michael_scott_present">COSC 3P00 - Prof. Michael Scott (Present)</string>
+    <string name="other_students">Other Students</string>
+    <string name="student_list">Student List</string>
+    <string name="earl_roxwell">Earl Roxwell</string>
+    <string name="you_must_be_at_brock_university_to_attend_the_class">You must be at Brock University to attend the class.</string>
+    <string name="cosc_3p00_prof_michael_scott">COSC 3P00 - Prof. Michael Scott</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email Address</string>
+    <string name="name_google_com">name@google.com</string>
+    <string name="password">Password</string>
+    <string name="passwordHint">***********</string>
+    <string name="logins">Login</string>
+    <string name="name_surname">Name Surname</string>
+    <string name="present">Present</string>
+    <string name="all_student">All Student</string>
+    <string name="logout">Logout</string>
+    <string name="geoattend">geoAttend</string>
+    <string name="Offline">Offline</string>
+    <string name="username">Username</string>
+    <string name="no_speecial">No Speecial charcter e.g @#!%^*</string>
+    <string name="do_not_have_account">Do not have an account already? Register here.</string>
+    <string name="register">Register</string>
+    <string name="fname">First name</string>
+    <string name="lname">Last Name</string>
+    <string name="profID">Professor ID</string>
+    <string name="enter_prof">Enter Professor ID</string>
+    <string name="add_course">Enter Professor ID here to join a course:</string>
+    <string name="goback">Back</string>
+    <string name="Teacher">Teacher</string>
+    <string name="Student">Student</string>
+
+
+</resources>

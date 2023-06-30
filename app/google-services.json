@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372360959605",
+    "firebase_url": "https://geoattend-6efdc-default-rtdb.firebaseio.com/",
+    "project_id": "geoattend-6efdc",
+    "storage_bucket": "geoattend-6efdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372360959605:android:93c06273243de69809ca3c",
+        "android_client_info": {
+          "package_name": "com.example.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372360959605-rr2rdf015t0qmi6if8a6t8j6a6fl4lbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendance",
+            "certificate_hash": "8c83833eb096b821e2abc4eb37bd8b8455ad2495"
+          }
+        },
+        {
+          "client_id": "372360959605-o60frck826ja31b8c9fq05f3ftm5ihc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvI6803P_qx0M7dWaBDiEH6ibfWJ4lAWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372360959605-o60frck826ja31b8c9fq05f3ftm5ihc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
